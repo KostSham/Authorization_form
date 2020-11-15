@@ -1,0 +1,23 @@
+{
+  "name": "authorization_form",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node-sass": "node-sass ./scss/main.scss  ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KostSham/Authorization_form.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KostSham/Authorization_form/issues"
+  },
+  "homepage": "https://github.com/KostSham/Authorization_form#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
